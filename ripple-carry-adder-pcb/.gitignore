@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# EasyEDA backup files
+*.bak
+
+# Proteus backup files
+*.DBK
+
+# Temp files
+*.tmp
+*.temp
