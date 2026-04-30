@@ -2,7 +2,7 @@
 
 A fully realized hardware project: schematic → PCB layout → simulation → physical board.
 
-Designed as part of **EE-272 Digital Logic** at **UET Lahore (2024-EE-264/265/274)**.
+Designed as part of **EE-272 Digital Logic** at **UET Lahore (2024-EE-264)**.
 
 ---
 
